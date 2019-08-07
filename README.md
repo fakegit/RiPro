@@ -34,9 +34,9 @@ wordpress  theme RiPro V3.0
 
 ## 第四步
 
-主题并安装启用 
+下载主题并安装启用 
 
-主题下载地址： https://github.com/AdFate/RiPro/releases/download/ripro/ripro.zip  
+下载地址： https://github.com/AdFate/RiPro/releases/download/ripro/ripro.zip  
 
 
 ***授权信息填写***
