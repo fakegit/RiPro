@@ -4,7 +4,6 @@
 wordpress  theme RiPro V3.0 
  替换授权地址，正版激活主题 
 
-主题下载地址： https://github.com/AdFate/RiPro/releases/download/ripro/ripro.zip  
 
 请严格按照下面步骤进行操作
  
@@ -34,6 +33,11 @@ wordpress  theme RiPro V3.0
 ![ssl.png](https://i.loli.net/2019/08/07/pbExnPU9uqkYOrs.png)
 
 ## 第四步
+
+主题并安装启用 
+
+主题下载地址： https://github.com/AdFate/RiPro/releases/download/ripro/ripro.zip  
+
 
 ***授权信息填写***
 
