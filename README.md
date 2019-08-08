@@ -19,7 +19,9 @@ wordpress  theme RiPro V3.0
   下载地址：https://github.com/AdFate/RiPro/releases/download/3.0/vip.ylit.cc.zip
 ## 第三步
 
-让系统信任 自签的SSL证书
+让系统信任 自签的SSL证书 
+记得把zip压缩包解压再执行相关操作 
+
 
 > Linux 服务器
   将第三步下载的证书 放到 /etc/pki/ca-trust/source/anchors 目录下   
